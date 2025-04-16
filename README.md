@@ -4,7 +4,7 @@
 I am a first year student **majoring in Computer Science** at the University of Washington.
 My favorite subject is *machine learning*.
 
-![My Photo](my-photo.jpg)
+![My Photo](dubs.jpg)
 
 
 ### Topics I'm Interested In:
