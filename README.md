@@ -13,7 +13,7 @@ My favorite subject is *machine learning*.
 - Computer Vision
 
 
-| Relevant Coursework   Quarter | Grade |
+| Relevant Coursework | Quarter | Grade |
 |---------------------|---------|-------|
 | CSE 123             | Autumn  | 3.9   |
 | PHYS 121            | Autumn  | 4.0   |
