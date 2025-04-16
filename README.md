@@ -13,11 +13,11 @@ My favorite subject is *machine learning*.
 - Computer Vision
 
 
-
-| Course         | Quarter | Grade |
-|----------------|---------|-------|
-| CSE 142        | Autumn  | A     |
-| MATH 124       | Winter  | A-    |
-
+| Relevant Coursework   Quarter | Grade |
+|---------------------|---------|-------|
+| CSE 123             | Autumn  | 3.9   |
+| PHYS 121            | Autumn  | 4.0   |
+| MATH 124            | Autumn  | 4.0   |
+| MATH 125            | Winter  | 3.9   |
 
 [Learn more about me here!](about.html)
